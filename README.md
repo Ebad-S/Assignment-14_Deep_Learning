@@ -17,7 +17,6 @@
 <div id="Glance">
 
 ## Summary    
-<hr>
     
 This is the Assignmnets for unit-14: Deep-learnign. The LSTM model is used to train the AI to make stock predictions based on:
 * Fear and Greed Index 
